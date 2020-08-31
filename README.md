@@ -27,7 +27,7 @@ GoogleMapsAPI = 'xxxxx';
 
 ## Installation Instructions :wrench:
 
-1. Clone the repo using `git clone https://github.com/imranhsayed/google-maps-in-react`
+1. Clone the repo using `git clone https://github.com/euguilhermegirardi/Google-Maps.git`
 2. `cd google-maps-in-react`
 3. `npm install`
 4. `cd client`
